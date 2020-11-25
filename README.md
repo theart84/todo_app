@@ -1,6 +1,6 @@
 # Todo App
 ## Веб-приложение для составления списка дел
-![]()
+![](https://raw.githubusercontent.com/theart84/todo_app/main/todo_app.jpg)
 ### Задачи
 - реализовать добавление задач
 - реализовать удаление задач
